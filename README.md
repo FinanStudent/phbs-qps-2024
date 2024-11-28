@@ -67,6 +67,7 @@ python scripts/fetch_cpi.py
 The output will display the inflation for the last 4 quarters.
 
 **Notes**
+
 This project uses the FRED API to fetch CPI data, so an internet connection is required to run the code.
 If you encounter any issues, make sure all dependencies are installed and that you have a working internet connection.
 
